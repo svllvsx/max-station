@@ -26,6 +26,9 @@
 
 <table align="center">
   <tr>
+    <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/svllvsxprod/max-station/main/docs/images/home.png" alt="Главный экран Max Station: Spotify, Lampa, YouTube и Twitch на фоне острова Каталина" width="100%"><br><sub>Главный экран CleanYourTV с приложениями и выбранными обоями</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><img src="https://raw.githubusercontent.com/svllvsxprod/max-station/main/docs/images/assistant.png" alt="Голосовой ассистент" width="100%"></td>
     <td align="center" width="50%"><img src="https://raw.githubusercontent.com/svllvsxprod/max-station/main/docs/images/time-minutes.png" alt="Настройка будильника с пульта" width="100%"></td>
   </tr>
